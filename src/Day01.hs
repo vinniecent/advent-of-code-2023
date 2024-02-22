@@ -37,7 +37,7 @@ day01 = do
   -- mapM_ print calibrationValues
 
   putStrLn "Sum of all calibration values:"
-  -- print $ sum calibrationValues
+  print $ sum calibrationValues
 
   -- print $ map replaceDigits inputLines
 
